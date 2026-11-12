@@ -35,3 +35,14 @@ Atividade da trilha DIO Angular. Créditos, fontes de tutoriais e colaboradores 
 **Ainda não é:** sistema integrado à KORA, serviço em produção ou prova de maturidade sem testes.
 
 [Voltar ao portfólio SAIRU/BLACKSITE](https://saiiru.github.io/#projetos-independentes)
+
+
+## Verificação de funcionamento — 12/11/2026
+
+**Estado confirmado:** Registro de Git/GitHub
+
+**Evidência:** README e docs de escopo revisados; não há programa a executar
+
+**Limites e bloqueios:** Projeto de curso — não apresentar como aplicação Angular.
+
+Esta validação não implica integração à KORA nem certificação de produção. Não alterar histórico, licença e autoria dos tutoriais.
