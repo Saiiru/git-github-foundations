@@ -12,3 +12,10 @@
 
 # dio-angular-develloper
 Desafio da dio GIt/Github
+
+
+## Verificação do código em 12/11/2026
+
+README e docs de escopo revisados; não há programa a executar
+
+**Limitações:** Projeto de curso — não apresentar como aplicação Angular.
